@@ -7,7 +7,7 @@ window.onload = function() {
     <style> 
     @font-face {
         font-family: 'Satoshi-Font';
-        src: url(SatoshiBlack.ttf);
+        src: url(https://cdn.jsdelivr.net/gh/Twiz-lol/Twast@main/SatoshiBlack.ttf);
     }
     .notification {
         font-family: 'Satoshi-Font';
